@@ -1,0 +1,29 @@
+// Name: Ritik Bheda
+// username: rnbheda
+// student #: 169174182
+
+
+1. an empty state is done to initialize the data members. it si done so that while declaring,
+if the data members got any random values, and futher using them could prove to be dangorous.
+so that,  the data members are brought to an empty state where possible (most common in most 
+cases) could be like  0, '', '\0', etc.
+
+2. all the data members and functions in a class are initially under the private sector if not
+specified while in the case of the struct, all the data member and functions are publicly 
+defined(if not specied).
+
+3. many data members and function should not be allowed to be accessed by unknown or foreign
+clients which many leak the privacy/security of the data of the class object. so, class privacy 
+helps in accomplishing that target by not allowing foreign clients to access the data. 
+
+4. I learned many new lesson and techniques in this workshop, some of them are:
+- how to use 'this' keyword. 'this' keyword helps to access the data of the object passed,
+which may be of much use in the future programs.
+- i also used and learned about the setprecision() in this workshop.
+- i also had a good lesson on the encapsulation of the classes.
+- constructor, destructor for a class are added in the list. 
+- adding, dividing a large task in smaller units and then to solve it is also a major skill 
+i learned in this workshop which is a much need for a programmer. 
+- At last, this workshop gave me a practice on many good topics of the language like pointers,
+dynamic memory allocation, classes and many such which will be of great use for my future 
+projects.
