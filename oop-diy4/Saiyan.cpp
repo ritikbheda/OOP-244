@@ -1,4 +1,4 @@
-// OOP 244 NHH 
+// OOP 244 NHH DIY
 // Name: Ritik Bheda
 // student #: 169174182
 // Date: 06/02/2020
