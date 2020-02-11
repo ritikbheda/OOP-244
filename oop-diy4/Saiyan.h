@@ -23,7 +23,7 @@ namespace sdds {
 		int m_dob;
 		int m_power;
 		bool m_super;
-		int m_level = 0;
+		int m_level;
 	public:
 		Saiyan() {
 			this->setEmpty();
